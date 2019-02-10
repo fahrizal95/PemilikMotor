@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "65545742916",
+    "firebase_url": "https://pencarian-tambal-ban.firebaseio.com",
+    "project_id": "pencarian-tambal-ban",
+    "storage_bucket": "pencarian-tambal-ban.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65545742916:android:ebed6a626df94686",
+        "android_client_info": {
+          "package_name": "com.example.fahrizal.pemilikmotor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65545742916-19tugjifir2mgrjm3t398hakptlhmc4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fahrizal.pemilikmotor",
+            "certificate_hash": "3acae25d61394aa899afb993991ed483258d9246"
+          }
+        },
+        {
+          "client_id": "65545742916-dl9ga02t6na09b98t8h41bubpd8h269u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoqwJozVsq2Cp681dJFWiWVAJ7hmSl5dM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65545742916-dl9ga02t6na09b98t8h41bubpd8h269u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65545742916:android:388062226e4754f0",
+        "android_client_info": {
+          "package_name": "com.example.fahrizal.pemiliktambalban"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65545742916-1l2ojh00plph57a0irelue9h7pf2vaqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fahrizal.pemiliktambalban",
+            "certificate_hash": "3acae25d61394aa899afb993991ed483258d9246"
+          }
+        },
+        {
+          "client_id": "65545742916-dl9ga02t6na09b98t8h41bubpd8h269u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoqwJozVsq2Cp681dJFWiWVAJ7hmSl5dM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65545742916-dl9ga02t6na09b98t8h41bubpd8h269u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
